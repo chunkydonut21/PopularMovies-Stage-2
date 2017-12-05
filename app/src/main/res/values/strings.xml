@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="key_sort_by"> sort_by </string>
+    <string name="title">Sort by</string>
+    <string name="default_value">popular</string>
+
+    <string name="popularity_label"> Sort by Popularity</string>
+    <string name="popularity"> popular</string>
+
+    <string name="top_ratings_label">Sort by Top Ratings</string>
+    <string name="top_ratings"> top_rated</string>
+
+    <string name="favourites_label">Sort by Favourites</string>
+    <string name="favourites"> favourites</string>
+
+
+    <string name="release_date">Release Date</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="language">Language</string>
+    <string name="overview"> Overview</string>
+
+    <string name="settings">Settings</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="no_connection">No Connection</string>
+
+
+
+</resources>
